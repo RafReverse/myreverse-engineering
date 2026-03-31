@@ -5,9 +5,9 @@
 
 ## 💻 My Lab
 - **OS:** Windows 11 Enterprise
-- **CPU:** Ryzen 5 5600 
+- **CPU:** Ryzen 7 9800X3D 
 - **GPU:** RTX 5080 GIGABYTE GAMING 
-- **RAM:** 32GB
+- **RAM:** 48GB DDR5 CL28
 - **Tools:** x64dbg, Ghidra, Ida pro
 
 ## 📂 Проекты в работе
